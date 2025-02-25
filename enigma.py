@@ -19,7 +19,7 @@ def message():
 #+#        #+#   #+#+#     #+#    #+#    #+# #+#       #+# #+#     #+# 
 ########## ###    #### ########### ########  ###       ### ###     ### 
                            {CIANO}DROPPER
-                     by: UNDEADSEC from Brazil{END}''')
+                  Coded by: UNDEADSEC updated by Hackersking{END}''')
 
 def runServer():
     print(f'\n {CIANO}[{END}*{CIANO}]{END} Starting Server... {GREEN}H4ppy h4ck1ng {END}:)')
